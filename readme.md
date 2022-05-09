@@ -2,7 +2,7 @@
 
 This is a very silly project that aims to emulate 8086 on Z80.
 
-![alt text](https://github.com/ninacarrot/bin/scr.png "Screenshot of FUSE running CP/M running 8086 codegolf")
+![alt text](https://github.com/NinaCarrot/onee-chan/blob/main/bin/scr.png "Screenshot of FUSE running CP/M running 8086 codegolf")
 
 
 As Z80 is somewhat older than 8086, I decided to call it "Big Sis". Originally, the idea was to run amazing 8086tiny - but the code of 8086tiny uses so many macroses that neither sdcc nor z88dk could handle it. After multiple failed attempts to patch 8086tiny, I decided to switch the core to a different emulator.
